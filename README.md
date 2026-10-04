@@ -1,4 +1,4 @@
-### Applied AI engineer. I make LLM agents reliable, safe and cost-efficient in production.
+### I build LLM agents that are reliable, safe and cost-efficient in production.
 
 Software Engineer, AI Platform at **Notion**, working on shared LLM services and agent tooling for Notion AI and the hosted Notion MCP server. Before that, I built PyTorch document AI for bank trade finance at **Intellect Design Arena**.
 
